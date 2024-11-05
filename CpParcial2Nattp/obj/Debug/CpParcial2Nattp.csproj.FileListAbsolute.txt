@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\bin\Debug\CpParcial2Nattp.exe.config
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\bin\Debug\CpParcial2Nattp.exe
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\bin\Debug\CpParcial2Nattp.pdb
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.Properties.Resources.resources
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.exe
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.pdb
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpMinerva.FrmProducto.resources
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CpParcial2Nattp\obj\Debug\CpParcial2Nattp.FrmProducto.resources

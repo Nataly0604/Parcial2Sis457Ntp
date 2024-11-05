@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\ClnParcial2Nattp.dll.config
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\ClnParcial2Nattp.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\ClnParcial2Nattp.pdb
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\CadParcial2Nattp.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\CadParcial2Nattp.pdb
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\CadParcial2Nattp.dll.config
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\obj\Debug\ClnParcial2Nattp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\obj\Debug\ClnParcial2Nattp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\obj\Debug\ClnParci.EA273D3C.Up2Date
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\obj\Debug\ClnParcial2Nattp.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\ClnParcial2Nattp\obj\Debug\ClnParcial2Nattp.pdb

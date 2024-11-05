@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\CadParcial2Nattp.dll.config
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\CadParcial2Nattp.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\CadParcial2Nattp.pdb
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\obj\Debug\CadParcial2Nattp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\obj\Debug\CadParcial2Nattp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\obj\Debug\CadParci.DDFE72AF.Up2Date
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\obj\Debug\CadParcial2Nattp.dll
+C:\Users\HP\Desktop\p2_natalytosubepinto\Parcial2Nattp\CadParcial2Nattp\obj\Debug\CadParcial2Nattp.pdb
